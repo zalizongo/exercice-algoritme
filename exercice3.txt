@@ -1,0 +1,11 @@
+algo : les nom
+variable a,b,c :chaine de caractere
+  Debut
+     ecrire("entrer les trois nom)
+            lire(a,b,c)
+si a < b et b < c alors
+      ecrire(""""""""""""")
+sinon 
+      ecrire(les nom sont pas en orde)
+finsi
+fin

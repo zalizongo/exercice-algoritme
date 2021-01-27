@@ -1,0 +1,13 @@
+algo : nombre
+variable
+x ,y: reel
+   Debut
+      ecrire("entrer un nombre)
+        lire(x ,y)
+
+    si x < o et y < 0 alors
+            ecrire("le nombre rentrer est negative)
+    si x > 0 et y > 0 alors
+            ecrire("le nombre rentrer est positive)
+    sinon ("le nombre est negative)
+    

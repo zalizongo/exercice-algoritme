@@ -1,0 +1,11 @@
+algo :nombre
+variable
+  x:reel
+   Debut
+       ecrire("entrer un nombre")
+          lire(x)
+          si > 0 alors
+            ecrire("le nombre est positive)
+sinon
+finsi
+fin  

@@ -1,0 +1,23 @@
+algo : ages des enfant
+variable
+    age : entier
+      
+      Debut("entrer l'age des enfant)
+              lire (age)
+    si (age <= 7) alors
+          ecrire("binevenue poussin)
+    si (l'ge <= 8 et age >= 9 )alors
+          ecrire("salut pupule)
+    si (l'age <= 10 et age >=11) alors
+           ecrire("minimi)
+    si (l'age > 12) alors
+           erire("bienvenu le cadet)
+    sinon
+         ecrire("bye bye)
+         
+
+    finsi
+    finsi
+    finsi
+    finsi
+    fin
